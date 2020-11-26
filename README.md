@@ -40,3 +40,4 @@ a opção **--external** serve para acessar em um outro dispositivo de rede
 
 Demostração pode ser acessada aqui:
 
+https://ninja-ap.netlify.app
