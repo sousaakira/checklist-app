@@ -6,7 +6,7 @@ console.log(location.host);
 
  if (location.host !== "localhost:8100") {
     console.log("local")
-    var uri: any = "http://45.71.81.80:3009/";
+    var uri: any = "https://check.arbt.com.br/";
  }else {
     var uri: any = "http://19.16.0.70:3000/"; 
  }
